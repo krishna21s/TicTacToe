@@ -219,4 +219,11 @@ code {
 }
 .select-btn{
   border: 1px solid black;
+  margin-top: 10px;
+  background-color: transparent;
+  border-radius: 5px;
+}
+.select-btn:hover{
+  background-color: #3930123f;
+  transition: 0.5s;
 }

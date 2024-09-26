@@ -112,7 +112,7 @@ const TicTacToe = () => {
                         onChange={(e) => setPlayer2Name(e.target.value)}
                         placeholder='O - Player2'
                     />
-                    <button onClick={handlePlayerSelection} className='select-btn btn btn-outlined-dark'>Select</button>
+                    <button onClick={handlePlayerSelection} className='select-btn '>Select</button>
                 </div>
             )}
             <div className="hdng d-flex align-items-center text-center">
