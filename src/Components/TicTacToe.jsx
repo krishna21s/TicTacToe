@@ -11,7 +11,6 @@ let board = ['', '', '', '', '', '', '', '', ''];
 let tieOrNot = false;
 
 const TicTacToe = () => {
-    // const buttonRef = useRef();
     const [gameLock, setGameLock] = useState(true);
     let [count, setCount] = useState(0);
     const [displayWinner, setDisplayWinner] = useState("Tic Tac Toe");
@@ -24,7 +23,6 @@ const TicTacToe = () => {
 
     const handleClick = (e, index) => {
         if (gameLock === true) {
-            // new Audio(gameStart).play();
             return;
         } else {
             if (count % 2 === 0 && board[index] === '') {
