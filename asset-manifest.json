@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TicTacToe/static/css/main.7ff5a409.css",
+    "main.js": "/TicTacToe/static/js/main.322e10e5.js",
+    "static/js/453.e036e8b5.chunk.js": "/TicTacToe/static/js/453.e036e8b5.chunk.js",
+    "static/media/gameWon.wav": "/TicTacToe/static/media/gameWon.9b5b1a6223e1057f8898.wav",
+    "static/media/gameStart.mp3": "/TicTacToe/static/media/gameStart.93f2df79eaa65bf79dcd.mp3",
+    "static/media/not.png": "/TicTacToe/static/media/not.0b326e955f2d65a0106d.png",
+    "static/media/tie.mp3": "/TicTacToe/static/media/tie.f4d7a202c804b6c48314.mp3",
+    "static/media/cross.png": "/TicTacToe/static/media/cross.62ed7149962669b1da03.png",
+    "static/media/logo.svg": "/TicTacToe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TicTacToe/index.html",
+    "main.7ff5a409.css.map": "/TicTacToe/static/css/main.7ff5a409.css.map",
+    "main.322e10e5.js.map": "/TicTacToe/static/js/main.322e10e5.js.map",
+    "453.e036e8b5.chunk.js.map": "/TicTacToe/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff5a409.css",
+    "static/js/main.322e10e5.js"
+  ]
+}
